@@ -3,4 +3,4 @@ Final project submission
 
 This app generates a random number on a die, when the "Roll Die" button is pressed. Thereafter, on pressing the "Add" button, these 2 numbers are summed and displayed as a "Toast" message. It uses the "java.util.Random" Class, that generates pseudo random integer.
 
-SAMPLE SCREENSHOT OF THE APP: ![App Screenshot](https://drive.google.com/file/d/1puhpnJqAGZv_6WVtHAP8rpUYdhu5f0mO/view?usp=sharing) 
+SAMPLE SCREENSHOT OF THE APP: ![App Screenshot](https://drive.google.com/file/d/1puhpnJqAGZv_6WVtHAP8rpUYdhu5f0mO/preview) 
