@@ -1,7 +1,6 @@
 # 30-days-of-Kotlin-with-Google
-Final project submission...
+Final project submission
 
-This app coded in Kotlin is used to generate two dice images when the roll button is pressed...and then shows the sum of both the dice numbers.
-This has been achieved using the java.util.Random class..that generates pseudo random int numbers.
+This app generates a random number on a die, when the "Roll Die" button is pressed. Thereafter, on pressing the "Add" button, these 2 numbers are summed and displayed as a "Toast" message. It uses the "java.util.Random" Class, that generates pseudo random integer.
 
-LINK TO SAMPLE SCREENSHOT OF THE APP:  https://drive.google.com/file/d/1puhpnJqAGZv_6WVtHAP8rpUYdhu5f0mO/view?usp=sharing
+SAMPLE SCREENSHOT OF THE APP: ![App Screenshot](https://drive.google.com/file/d/1puhpnJqAGZv_6WVtHAP8rpUYdhu5f0mO/view?usp=sharing) 
